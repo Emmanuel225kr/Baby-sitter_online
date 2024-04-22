@@ -1,0 +1,27 @@
+.dv{
+   width: 50vw;
+   font-size: 20px;
+   border: 1px solid black;
+ display: grid;
+ grid-template-columns: 80px 80px 80px 80px 80px 80px 80px 80px
+
+
+}
+.u1{
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+.h1{
+   margin-bottom: 20px;
+}
+.j1{
+   border: 1px solid rgb(92, 20, 20);
+   width: 50vw;
+}
+
+.k1{
+   display: flex;
+  flex-direction: row-reverse;
+}
